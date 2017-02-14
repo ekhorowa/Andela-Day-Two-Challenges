@@ -1,0 +1,15 @@
+{
+  "name": "andela-bootcamp-day-two-challenges",
+  "version": "1.0.0",
+  "description": "This program contains andela day two challenges",
+  "main": "index.js",
+  "dependencies": {
+    "twit": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omokaro  Ekhorowa  Faith",
+  "license": "ISC"
+}
